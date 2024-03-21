@@ -1033,5 +1033,26 @@ var crops = {
       "kegType": "Wine"
     },
     "isWildseed": true
+  },
+  "carrot": {
+    "name": "Carrot",
+    "url": "http://stardewvalleywiki.com/Carrot",
+    "img": "carrot.png",
+    "seeds": {
+      "pierre": 0,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "Boxes, Crates, Digging Spots",
+      "specialUrl": "http://stardewvalleywiki.com/Carrot"
+    },
+    "growth": {
+      "initial": 3,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 0,
+      "extraPerc": 0.00,
+      "price": 35,
+    }
   }
 };
