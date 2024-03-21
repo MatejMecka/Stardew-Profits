@@ -94,7 +94,8 @@ var seasons = [
 			crops.bluejazz,
 			crops.tulip,
 			crops.ancientfruit,
-			crops.springseeds
+			crops.springseeds,
+			crops.carrot
 		]
 	},
 	{
